@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1f32068.css",
+    "main.js": "/static/js/main.f4a9bda0.js",
+    "static/media/travel.mp4": "/static/media/travel.b107473bec6070db8dda.mp4",
+    "static/media/video.mp4": "/static/media/video.f0a9c620cd793a4aee6e.mp4",
+    "static/media/itza.jpg": "/static/media/itza.3b408fb76168d336ebf0.jpg",
+    "static/media/Karamjol.jpg": "/static/media/Karamjol.986c21888885e5f7fb00.jpg",
+    "static/media/wall.jpg": "/static/media/wall.13e7b30c4266ae255190.jpg",
+    "static/media/ic.jpg": "/static/media/ic.fb731b4df93ab415d35d.jpg",
+    "static/media/colosseum.jpg": "/static/media/colosseum.9fdf0296641cddf36d19.jpg",
+    "static/media/christ.jpg": "/static/media/christ.40c4efed1c719b9a5a04.jpg",
+    "static/media/dearimages.jpg": "/static/media/dearimages.54d6d807916ce8974016.jpg",
+    "static/media/swi1.jpg": "/static/media/swi1.c473b85f192ea42a953d.jpg",
+    "static/media/geo.jpg": "/static/media/geo.f8e22e7ab36a5fdae196.jpg",
+    "static/media/Back.png": "/static/media/Back.c6ae4a8cc4f23fd65028.png",
+    "static/media/par1.jpg": "/static/media/par1.f196ff9dcb6d0272543a.jpg",
+    "static/media/machu.jpg": "/static/media/machu.0d08234a1f5eb9bc8826.jpg",
+    "static/media/petra.jpg": "/static/media/petra.3172c059e2a2005f7451.jpg",
+    "static/media/singa.jpg": "/static/media/singa.a7716fd852e1837cd75c.jpg",
+    "static/media/lake.jpg": "/static/media/lake.edd013aa9e504cc1e953.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.599ca4cbafe5741b15e1.jpg",
+    "static/media/du1.jpg": "/static/media/du1.fbafbfacb410e26f27c0.jpg",
+    "static/media/promo.mp4": "/static/media/promo.5d456627069e11f6d1e6.mp4",
+    "static/media/taj.jpg": "/static/media/taj.6dfa5ff280fb67b2cfdb.jpg",
+    "static/media/cruise1.jpg": "/static/media/cruise1.6e12f42709ebc705a789.jpg",
+    "static/media/Laksha.jpeg": "/static/media/Laksha.996e16a2fbb3e19f8e4d.jpeg",
+    "static/media/gr2.jpg": "/static/media/gr2.c2fdd728f69c5843b6ab.jpg",
+    "index.html": "/index.html",
+    "main.d1f32068.css.map": "/static/css/main.d1f32068.css.map",
+    "main.f4a9bda0.js.map": "/static/js/main.f4a9bda0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f32068.css",
+    "static/js/main.f4a9bda0.js"
+  ]
+}
